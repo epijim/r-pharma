@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R/Pharma conferences | R/Pharma</title>
+    <title>R/Pharma conferences and events | R/Pharma</title>
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>R/Pharma conferences</description>
+    <description>R/Pharma conferences and events</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© R/Pharma 2021</copyright>
     <image>
       <url>/media/logo_hu7da996d8ce7178f65929875a2132de7e_457633_300x300_fit_lanczos_2.png</url>
-      <title>R/Pharma conferences</title>
+      <title>R/Pharma conferences and events</title>
       <link>/event/</link>
     </image>
     
@@ -91,20 +91,20 @@ following academic and industrial affiliations attended the workshop:&lt;/p&gt;
     </item>
     
     <item>
-      <title>2018 Conference</title>
-      <link>/event/rinpharma2018/</link>
-      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
-      <guid>/event/rinpharma2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2019 Conference</title>
       <link>/event/rinpharma2019/</link>
       <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
       <guid>/event/rinpharma2019/</guid>
       <description>&lt;p&gt;James will add an html schedule here.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>2018 Conference</title>
+      <link>/event/rinpharma2018/</link>
+      <pubDate>Mon, 20 Aug 2018 13:00:00 +0000</pubDate>
+      <guid>/event/rinpharma2018/</guid>
+      <description></description>
     </item>
     
   </channel>
